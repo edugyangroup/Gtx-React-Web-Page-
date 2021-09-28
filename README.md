@@ -1,12 +1,12 @@
 <h1 align="center">React Web Application</h1>
 <p align="center"><a>
-    <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
+    <img src="https://raw.githubusercontent.com/edugyangroup/Gtx-React-Web-Page-/main/src/assets/Screenshot%20(11).png" />
   </a>
 <a>
-    <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
+    <img src="https://raw.githubusercontent.com/edugyangroup/Gtx-React-Web-Page-/main/src/assets/Screenshot%20(12).png" />
   </a>
   <a>
-    <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
+    <img src="https://raw.githubusercontent.com/edugyangroup/Gtx-React-Web-Page-/main/src/assets/Screenshot%20(13).png" />
   </a>
 <p align="center">Snapshorts Of The Application</p>
 

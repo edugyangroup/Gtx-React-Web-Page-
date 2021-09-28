@@ -33,10 +33,11 @@ function App() {
           alert("Edited Sucsefully!");
           tanatns[index].name=name;
           tanatns[index].price=price;
+          setTanats([...tanatns]);
           }else{
           alert("add Sucsefully!");
           tanatns.push({name:name,price:price});
-          setTanats(tanatns);
+          setTanats([...tanatns]);
         }
       }
       const show1=(index)=>{

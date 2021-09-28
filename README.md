@@ -1,70 +1,73 @@
-# Getting Started with Create React App
+<h1 align="center">React Web Application</h1>
+<p align="center"><a>
+    <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
+  </a>
+<a>
+    <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
+  </a>
+  <a>
+    <img src="https://raw.githubusercontent.com/edugyangroup/ecommerce-app-using-react-native/main/Untitled%20design%20(2).png" />
+  </a>
+<p align="center">Snapshorts Of The Application</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<p align="center"><b>  <a href="https://github.com/edugyangroup/Gtx-React-Web-Page-">
+    <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" style="max-width: 40%;"/>
+  </a></b></p>
 
-In the project directory, you can run:
+### Glad to see you here!
 
-### `yarn start`
+This Above Souce Code About proparty diling and tenants   Management System
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Feature Of This Application
+<ul>
+  <li>Add New User</li>
+  <li>Update user</li>
+  <li>Delete User</li>
+</ul>  
+<p align="center">
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+  <a href="http://twitter.com/praveenjdjr">
+    <img src="https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white" />
+  </a>
+   <a href="https://www.linkedin.com/in/praveen-jangir/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/15096860/edu-gyan-arduino">
+    <img src="https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCXDNEg6GKI5yQRym1uLE8pg">
+    <img src="https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white"/>
+  </a>
+</p>
 
-### `yarn test`
+<img align="right" height="250" width="375" alt="" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### To Run This Souce Code Follow These Steps
 
-### `yarn build`
+<details> 
+  <summary><b>1. Download Zip</b></summary>
+    <a href ="https://github.com/edugyangroup/Gtx-React-Web-Page-"> Download Now </a><br>
+</details>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<details> 
+  <summary><b>2. cd ecommerce-app-using-react-native</b></summary>
+    <a href ="#">cd App Name/Project Name</a><br>   
+</details>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<details> 
+  <summary><b>3. Run yarn install/npm install</b></summary>
+    <a href ="#"> Run yarn install/npm install </a><br>
+</details>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br>
 
-### `yarn eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div align="center">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Thanks ❤️ For Visiting !
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+</div>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
